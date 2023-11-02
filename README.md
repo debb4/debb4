@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# debby
+ ## Github Performance
+![github stats](https://github-readme-stats.vercel.app/api?username=semafie&show_icons=true&theme=tokyonight)
+![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=debby&layout=compact&theme=tokyonight&langs_count=8)
+  
+
