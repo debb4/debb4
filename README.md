@@ -15,6 +15,6 @@
 
 # debby
  ## Github Performance
-
+![debb4's Stats](https://github-readme-stats.vercel.app/api?username=debb4&theme=onedark&show_icons=true&hide_border=false&count_private=true)
   
 
