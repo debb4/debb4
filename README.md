@@ -5,9 +5,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/debby-azzahra-2a254124a/)
   
 ## Tech Stack:
-![Laravel]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
-![FLUTTER]({https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white})
-![REACT NATIVE]({https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
