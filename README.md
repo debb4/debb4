@@ -6,7 +6,9 @@
   
 ## Tech Stack:
 ![Laravel]({https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white})
-![Laravel]({https://camo.githubusercontent.com/df7ab2a6c45b04e44de2c8641ef87cba4617625cd31935efb57721a4e0a351b2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465})
+![FLUTTER]({https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white})
+![REACT NATIVE]({https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB})
+
 
 
 
