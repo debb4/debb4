@@ -7,7 +7,7 @@
 ## Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css, dart, figma, flutter, html, java, js, laravel, mysql, nodejs, npm, php, postman, react, tailwind, " />
+    <img src="https://skillicons.dev/icons?i=css,dart,figma,flutter,html,java,js,laravel,mysql,nodejs,npm,php,postman,react,tailwind, " />
   </a>
 </p>
 
