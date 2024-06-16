@@ -3,6 +3,7 @@
 
 ## Social Media
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/debby-azzahra-2a254124a/)
+  [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
   
 ## Tech Stack:
 <p align="center">
