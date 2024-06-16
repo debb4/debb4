@@ -5,7 +5,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/debby-azzahra-2a254124a/)
   
 ## Tech Stack:
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)}" />
+<img src="{https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white}" />
 
 
 
