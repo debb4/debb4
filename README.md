@@ -6,7 +6,7 @@
   ![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
   
 ## Tech Stack:
-  ![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,dart,figma,flutter,html,java,js,laravel,mysql,nodejs,npm,php,postman,react,tailwind, " />
