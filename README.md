@@ -5,7 +5,11 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/debby-azzahra-2a254124a/)
   
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css, dart, figma, flutter, html, java, js, laravel, mysql, nodejs, npm, php, postman, react, tailwind, " />
+  </a>
+</p>
 
 
 
